@@ -104,9 +104,8 @@ real-world development projects.
 
 ## 🌐 Connect With Me
 
-- 🌍 Website: YOUR WEBSITE
-- 💼 LinkedIn: YOUR LINKEDIN
-- 📧 Email: YOUR EMAIL
+
+- 📧 Email: aditya000456@gmail.com
 
 ---
 
